@@ -1,0 +1,9 @@
+apple,17,smartphone,256GB,500000
+Nubia,neo 3,smartphone,128GB,67000
+acer,a5,laptop,1TB,300000
+rog,Gaming 5,laptop,2TB,700000
+samzung,A11,tablet,500GB,70000
+soundcore,air,accessory,HD audio,10000
+
+samzung,s23,smartphone,128GB,70000
+,,smartphone,,

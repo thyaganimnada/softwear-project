@@ -1,0 +1,5 @@
+nimnada,nimnada@gmail.com,Store Manager,123
+thayaga,thayaga@gmail.com,Sales Representative,123
+admin,admin@gmail.com,Store Manager,1234
+nimnal,nimal@gmail.com,Sales Representative,4444
+nimnada,nimnada@gmail.com,Sales Representative,1
